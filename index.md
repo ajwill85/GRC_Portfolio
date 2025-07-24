@@ -9,9 +9,9 @@ Hello, I'm Akeem Williams, a Governance, Risk, and Compliance (GRC) professional
 ## Contact Information
 
 - **Email**: ajwilliams85@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/williamsakeem/
+- **LinkedIn**: [linkedin.com/in/williamsakeem](https://www.linkedin.com/in/williamsakeem/)
 - **GitHub**: [github.com/ajwill85](https://github.com/ajwill85)
-- **Location**: Fresno,CA
+- **Location**: Fresno, CA
 
 ## Professional Summary
 
