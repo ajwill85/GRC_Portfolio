@@ -11,7 +11,7 @@ Hello, I'm [Akeem Williams](https://www.linkedin.com/in/williamsakeem/), a Gover
 - **Email**: ajwilliams85@gmail.com
 - **LinkedIn**: [linkedin.com/in/akeemwilliams](https://www.linkedin.com/in/williamsakeem/)
 - **GitHub**: [github.com/ajwill85](https://github.com/ajwill85)
-- **Location**: Fresno, CA
+- **Location**: California
 
 ## Professional Summary
 
