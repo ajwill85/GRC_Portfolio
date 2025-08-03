@@ -39,8 +39,9 @@ Hello, I'm [Akeem Williams](https://www.linkedin.com/in/williamsakeem/), a Gover
 
 - [CISSP](https://www.credly.com/badges/bbae2686-b50a-43c2-883c-bc052d541281) - ISC2 - 2024
 - [Fellow of Privacy Technology](https://www.credly.com/badges/de15b56a-e8ba-4e88-9de3-25cde63f3122) - OneTrust - 2024
-- [SSAP](https://www.credly.com/badges/03638838-693a-4862-a933-60dc0c1f430c) - SANS - 2023
-- [GSLC](https://www.credly.com/badges/fc7597e4-e4c9-4478-a2e6-99c44369f9b1) - GIAC - 2023
+- [SANS Security Awareness Professional (SSAP)](https://www.credly.com/badges/03638838-693a-4862-a933-60dc0c1f430c) - SANS - 2023
+- [GIAC Security Leadership (GSLC)](https://www.credly.com/badges/fc7597e4-e4c9-4478-a2e6-99c44369f9b1) - GIAC - 2023
+- [GIAC Advisory Board](https://www.credly.com/badges/9edca151-4ece-4edf-aca0-dac53b796df1) - GIAC - 2023
 - [Add your AWS certifications and other relevant credentials]
 - See [Credly profile](https://www.credly.com/badges/fc7597e4-e4c9-4478-a2e6-99c44369f9b1) for additional certifications
 
